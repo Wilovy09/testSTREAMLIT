@@ -1,4 +1,5 @@
 # pip install streamlit streamlit-lottie pillow requests
+# https://youtu.be/mAhJ_mQEoO4
 import streamlit as st
 from streamlit_lottie import st_lottie
 from PIL import Image
